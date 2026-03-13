@@ -1,0 +1,9 @@
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\bin\Debug\en iyi fatihi örnek.exe.config
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\bin\Debug\en iyi fatihi örnek.exe
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\bin\Debug\en iyi fatihi örnek.pdb
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\obj\Debug\en iyi fatihi örnek.csprojResolveAssemblyReference.cache
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\obj\Debug\en_iyi_fatihi_örnek.Form1.resources
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\obj\Debug\en_iyi_fatihi_örnek.Properties.Resources.resources
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\obj\Debug\en iyi fatihi örnek.csproj.GenerateResource.Cache
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\obj\Debug\en iyi fatihi örnek.exe
+D:\şi#\special project\diziler arası veri transferi ve tür dönüşümleri\en iyi fatihi örnek\en iyi fatihi örnek\obj\Debug\en iyi fatihi örnek.pdb
