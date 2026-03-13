@@ -1,0 +1,6 @@
+D:\şi#\all project\08.02.2024\08.02.2024(2)\08.02.2024(2)\bin\Debug\08.02.2024(2).exe.config
+D:\şi#\all project\08.02.2024\08.02.2024(2)\08.02.2024(2)\bin\Debug\08.02.2024(2).exe
+D:\şi#\all project\08.02.2024\08.02.2024(2)\08.02.2024(2)\bin\Debug\08.02.2024(2).pdb
+D:\şi#\all project\08.02.2024\08.02.2024(2)\08.02.2024(2)\obj\Debug\08.02.2024(2).csprojResolveAssemblyReference.cache
+D:\şi#\all project\08.02.2024\08.02.2024(2)\08.02.2024(2)\obj\Debug\08.02.2024(2).exe
+D:\şi#\all project\08.02.2024\08.02.2024(2)\08.02.2024(2)\obj\Debug\08.02.2024(2).pdb

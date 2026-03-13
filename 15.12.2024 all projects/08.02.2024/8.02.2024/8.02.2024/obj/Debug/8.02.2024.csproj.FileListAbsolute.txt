@@ -1,0 +1,10 @@
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\bin\Debug\8.02.2024.exe.config
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\8.02.2024.csprojResolveAssemblyReference.cache
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\_8._02._2024.Form1.resources
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\_8._02._2024.Properties.Resources.resources
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\8.02.2024.csproj.GenerateResource.Cache
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\bin\Debug\8.02.2024.exe
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\bin\Debug\8.02.2024.pdb
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\8.02.2024.exe
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\8.02.2024.pdb
+D:\şi#\all project\08.02.2024\8.02.2024\8.02.2024\obj\Debug\Array_Collections_15._02._2024.Form1.resources
